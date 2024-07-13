@@ -6,3 +6,7 @@ __pycache__/
 
 # ignore environment variables files
 .env
+
+# ignore the databases
+tictactoe
+tictactoe.db
