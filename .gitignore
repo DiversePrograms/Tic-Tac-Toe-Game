@@ -10,3 +10,6 @@ __pycache__/
 # ignore the databases
 tictactoe
 tictactoe.db
+
+# ignore batch files
+*.bat
